@@ -1,0 +1,26 @@
+{
+  "name": "inventory-management",
+  "version": "1.0.0",
+  "description": "inventory-management-UKK-aurel",
+  "license": "ISC",
+  "author": "Aurel Fristian Ramdhani Hatorangan Simanjuntak",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.6.0",
+    "dotenv": "^17.4.2",
+    "prisma": "^6.19.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "@prisma/client": "^7.7.0",
+    "express": "^5.2.1",
+    "javascript": "^1.0.0"
+  },
+  "keywords": []
+}
